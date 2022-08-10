@@ -6,3 +6,9 @@
 ##
 ### Explainability in ML: Definitions, Techniques, and Tools
 [click Here to show you](https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools)
+
+
+
+##
+### Book : Interpretable Machine Learning
+[click Here to show you](https://christophm.github.io/interpretable-ml-book/)
